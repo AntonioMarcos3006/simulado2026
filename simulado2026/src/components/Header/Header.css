@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 28px 20px 22px;
+  text-align: left;
+}
+
+.header img {
+  width: 56px;
+  height: 56px;
+  padding: 8px;
+  background: #2d2f36;
+  border-radius: 16px;
+  object-fit: contain;
+}
+
+.header h1 {
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin: 0 0 2px;
+}
+
+.header p {
+  color: #aab8d0;
+  font-size: 14px;
+}
